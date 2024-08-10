@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Click Me](https://github.com/123JUICE-BOY321)
 - 😄 Pronouns: Default 🧔🏻‍♂️
 - ⚡ Fun fact: You just read my README.md
+
+![Jellyfish](Assets/Jellyfish.svg)
