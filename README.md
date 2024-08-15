@@ -9,4 +9,4 @@
 - 😄 Pronouns: Default 🧔🏻‍♂️
 - ⚡ Fun fact: You just read my README.md
 
-![Jellyfish](Assets/Jellyfish.svg)
+![Jellyfish](Assets/Chill.gif)
