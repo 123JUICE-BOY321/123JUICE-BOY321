@@ -1,3 +1,7 @@
+## Leetcode Badges
+
+<img src="Assets/2550.gif" alt="50 Days Badge 2025" width="100">
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on making this README.md
