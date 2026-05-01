@@ -1,6 +1,6 @@
 ## Leetcode Badges
 
-<img src="Assets/25200.gif" alt="200 Days Badge 2025" height="100"><img src="Assets/25100.gif" alt="100 Days Badge 2025" height="100"><img src="Assets/2550.gif" alt="50 Days Badge 2025" height="100"><img src="Assets/Introduction_to_Pandas.gif" alt="Introduction to Pandas" height="100">
+<img src="Assets/365.gif" alt="365 Days Badge" height="100"><img src="Assets/25200.gif" alt="200 Days Badge 2025" height="100"><img src="Assets/26100.gif" alt="100 Days Badge 2026" height="100"><img src="Assets/25100.gif" alt="100 Days Badge 2025" height="100"><img src="Assets/2650.gif" alt="50 Days Badge 2026" height="100"><img src="Assets/2550.gif" alt="50 Days Badge 2025" height="100"><img src="Assets/Introduction_to_Pandas.gif" alt="Introduction to Pandas" height="100">
 
 ## HackerRank Badges
 
